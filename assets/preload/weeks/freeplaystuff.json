@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Ic-0n Theme",
+			"Ic-0n",
+			[
+				26,
+				20,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "goofy ahhhhhhh",
+	"weekName": "goofy ahhhh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
